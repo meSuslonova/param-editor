@@ -1,4 +1,4 @@
-# Getting Started  App
+# To get started with the Application
 step 1:
 ### `npm install`
 step 2:
